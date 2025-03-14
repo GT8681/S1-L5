@@ -3,9 +3,33 @@ header{
     text-align: center;
 
 }
+
+.main{
+    min-width: 300Px;
+    min-height: 300px;
+   
+}
 .logo{
     padding: 2em;
 }
-  
+  .image1{
+    background-image: url(../images/banner.jpg);
+    font-size: 200%;
+  }
+  .image1 h1{
+    padding: 1.5em;
+    text-align: center;
+  }
+  .image1 p{
+    text-align: center;
+    padding: 0em;
+    
+  }
+  .parag1 h3 p{
+    text-align: center;
+  }
+  .parag2{
+    text-align: center;
+  }
 
 
