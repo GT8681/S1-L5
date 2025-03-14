@@ -17,8 +17,12 @@ header{
     font-size: 200%;
   }
   .image1 h1{
+    
+  font-weight: 100;
+  font-style: normal;
     padding: 1.5em;
     text-align: center;
+    color: #25a2c3;
   }
   .image1 p{
     text-align: center;
@@ -38,6 +42,10 @@ header{
 
   .parag2 h3{
     padding: 1.2em;
+  }
+  .image1 button{
+    background-color: red;
+   
   }
 
 
