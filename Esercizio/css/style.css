@@ -11,9 +11,9 @@ header{
     font-size: 200%;
   }
   .image1 h1{
-    
-  font-weight: 100;
-  font-style: normal;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     padding: 1.5em;
     text-align: center;
     color: #25a2c3;
@@ -40,13 +40,18 @@ header{
     padding: 1.2em;
     color: #25a2c3;
     font-size: 200%;
-    
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
   }
 
   .parag2 h1{
     padding: 1.2em;
     color: #25a2c3;
     font-size: 200%;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   }
   .image1 button{
     background-color: red;
@@ -56,6 +61,9 @@ header{
     color: #25a2c3;
     font-size: 200%;
     text-align: center;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   }
   .fine{
     padding: 2em;
@@ -81,7 +89,9 @@ header{
     margin: 1.5em;
    }
 .pc h1{
-
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 color: #25a2c3;
 }
 
@@ -92,7 +102,9 @@ font-size: 30px;
 
 .pc1 h1{
     color: #25a2c3;
-    
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 .pc2{
@@ -101,6 +113,9 @@ font-size: 30px;
 }
 .pc2 h1{
     color: #25a2c3;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 .fine2{
     background-color: #25a2c3;
