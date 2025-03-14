@@ -1,1 +1,11 @@
-/* Your styles here */
+header{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+.logo{
+    padding: 2em;
+}
+  
+
+
