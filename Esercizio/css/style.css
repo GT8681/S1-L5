@@ -8,6 +8,8 @@ header{
 }
   .image1{
     background-image: url(../images/banner.jpg);
+    background-position:20em;
+    background-size: 20em;
     font-size: 200%;
     text-align: center;
     padding: 1.6em;
@@ -36,6 +38,7 @@ header{
     font-style: normal;
     font-size: 0.4em;
     width: 20em;
+    border-style: none;
    
   }
   .parag2{
