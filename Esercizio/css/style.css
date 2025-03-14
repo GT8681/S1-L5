@@ -102,6 +102,25 @@ font-size: 30px;
 .pc2 h1{
     color: #25a2c3;
 }
+.fine2{
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 3em;
+    
+    
+
+}
+.fine2 h1{
+    font-size: 35px;
+    
+}
+footer{
+   padding: 1.6em;
+}
+
+
 
 
 
