@@ -25,11 +25,19 @@ header{
     padding: 0em;
     
   }
-  .parag1 h3 p{
+  .parag1{
     text-align: center;
+    padding: 1.5em;
   }
   .parag2{
     text-align: center;
+  }
+  .parag1 h3{
+    padding: 1.2em;
+  }
+
+  .parag2 h3{
+    padding: 1.2em;
   }
 
 
